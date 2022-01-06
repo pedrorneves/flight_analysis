@@ -5,6 +5,6 @@ Using C basic principles, such as arrays, pointers and data in text files, and a
 I co-wrote a program which computes the solution of differential equations describing the trajectory of an airplane using simple numerical methods
 and graphs the corresponding trajectory, amongst other diagrams, and presents the range left for an airplane without fuel.
 
-The program is initiated by running 'flight_analysis'.
+The program is initiated by running 'flight_analysis.c'.
 
 Program written in Portuguese.
